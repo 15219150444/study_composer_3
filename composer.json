@@ -1,0 +1,14 @@
+{
+    "name": "15219150444/study_composer_3",
+    "description": "study_composer_3 miaoshu",
+    "type": "projec",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "15219150444",
+            "email": "939970308@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
