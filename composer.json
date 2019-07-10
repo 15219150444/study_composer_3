@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "houdunwang/wechat": "dev-master"
+    }
 }
